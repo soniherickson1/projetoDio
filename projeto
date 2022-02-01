@@ -1,0 +1,17 @@
+using System;
+using System;
+
+namespace DIO
+{
+    class Serie
+    {
+        static void Main(string[] args)
+        {
+            int N = int.Parse(Console.ReadLine());
+
+            Infelizmente eu nao consegui terminar, agradeço pela oportunidade;
+                }
+            }
+        }
+    }
+}
